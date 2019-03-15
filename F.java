@@ -1,3 +1,5 @@
+//Aula de sexta-feira, dia 15 de março.
+
 import java.util.Random;
 
 public class F
